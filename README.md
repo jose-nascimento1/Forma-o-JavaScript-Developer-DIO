@@ -1,5 +1,5 @@
 # Formação HTML Web Developer
-Repositório criado para os desafios de códigos realizados na Formação. Com uma trilha de 21 horas, focadas no entendimento de como trabalhar com HTML, a base para criar as primeiras páginas WEB. Aprendendo na prática a como estruturar a marcação da sua página e como funciona cada tag, conhecendo os elementos semânticos e outras boas práticas na hora de construir sua primeira página, dominando os conceitos necessários para utilizar o HTML.
+Repositório criado para os desafios de projetos realizados na Formação. Com uma trilha de 21 horas, focadas no entendimento de como trabalhar com HTML, a base para criar as primeiras páginas WEB. Aprendendo na prática a como estruturar a marcação da sua página e como funciona cada tag, conhecendo os elementos semânticos e outras boas práticas na hora de construir sua primeira página, dominando os conceitos necessários para utilizar o HTML.
 
 🔗 [Clique aqui para acessar o certificado](https://www.dio.me/certificate/3C52D48E/share)
 
